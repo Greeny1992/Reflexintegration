@@ -1,0 +1,5 @@
+# Intermediate extraction folder — not needed in the repo
+extracted_images/
+
+# Local Claude Code settings
+.claude/
