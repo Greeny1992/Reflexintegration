@@ -3,3 +3,6 @@ extracted_images/
 
 # Local Claude Code settings
 .claude/
+
+# Quelldokumente (nicht öffentlich ausliefern)
+*.docx
