@@ -426,7 +426,9 @@ h3 { font-size: clamp(1.15rem, 2vw, 1.5rem); }
 
 .hero-logo {
   margin-bottom: 2rem;
-  max-width: 360px;
+  width: 100%;
+  max-width: 440px;
+  height: auto;
 }
 
 /* ---- Was ist Reflexintegration ---- */
